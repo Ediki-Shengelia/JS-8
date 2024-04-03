@@ -1,0 +1,20 @@
+.image {
+  width: 100px;
+  height: 100px;
+}
+.loadprev{
+    background-color: red;
+  border-radius: 25px;
+}
+.loadprev.prev-none {
+  display: none;
+  
+}
+.loadmore{
+    background-color: blue;
+    border-radius: 25px;
+}
+.loadmore.more-none {
+  display: none;
+
+}
